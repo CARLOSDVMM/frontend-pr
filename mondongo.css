@@ -1,0 +1,49 @@
+html{
+    background-color: whitesmoke;
+    background-image: url('https://lumijor.com.do/wp-content/uploads/2015/10/Fachada1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.formulario{
+    border: 1px solid;
+    height: 300px;
+    width: 300px;
+    border-color: black;
+    justify-content: center;
+    padding: 30px;
+    margin-top: 40px;
+    margin-left: 500px;
+    margin-right: 450px;
+    background-color: rgb(219, 169, 111);
+    border-radius: 30px;
+}
+.lumijor{
+    justify-content: center;
+    margin-left: 50px;
+    width: 200px;
+    background-color: rgb(219, 169, 111);
+}
+#nombre{
+    margin-top: 20px;
+    font-weight: bold;
+}
+#contacto{
+    margin-top: 10px;
+    font-weight: bold;
+}
+#mensaje{
+    width: 200px;
+    height: 40px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+.recordar{
+    margin-top: 20px;
+}
+.enviar{
+    background-color: blanchedalmond;
+    font-weight: bold;
+    width: 300px;
+    text-align: center;
+    margin-top: 10px;
+}
